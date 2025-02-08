@@ -55,7 +55,7 @@
         });
     }, {offset: '80%'});
 
-    const words = ["Transformational Trailblazing Leader", "Visionary Global Investor", "Influential Master Teacher"];
+    const words = ["Transformational Leader", "Visionary Global Investor", "Influential Master Teacher"];
     let wordIndex = 0;
     const textElement = document.getElementById("typed-texty");
     
